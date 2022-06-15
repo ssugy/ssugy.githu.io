@@ -1,2 +1,1 @@
-# ssugy.githu.io
-An overview of the project I developed.
+# 개인 프로젝트 진행에 대한 기록입니다.
